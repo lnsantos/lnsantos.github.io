@@ -1,8 +1,8 @@
 baseURL = 'http://example.org/'
 copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
-languageCode = 'en-us'
+languageCode = 'pt-br'
 theme = 'lowkey'
-title = 'Lowkey Hugo'
+title = 'Blog do Lucas'
 enableRobotsTXT = true
 
 # List Config

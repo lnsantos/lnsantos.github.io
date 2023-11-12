@@ -1,15 +1,11 @@
 ---
-title: "Ahoy There!"
+title: "Bem-vindo =)"
 draft: false
 ---
-Lowkey is a Clean and Simple Hugo theme inspired by [Adam Wathan's](https://adamwathan.me/) Website. Suitable for use as a personal blog, portofolio, etc. 
+Olá, meu nome é Lucas sou desenvolvedor android, se você caiu de paraquedas aqui, esse blog é um espaço reservado para compartilhamento de conhecimento e registros de ideias. 
 
-This theme uses TailwindCSS, so it's easy to customize.
+Aqui você pode acabar encontrando diversos assuntos seja tutorial, opiniões, desabafos etc... o céu não é o limite.
 
-If you are interested in using this theme, you can get it on [GitHub](#).
+**Motivação**
 
-**Example Description:**
-
-Alex Lowkey is a professor of artificial intelligence at the Unknow AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Principal motivação é voltar a criar conteúdo para a internet de uma forma mais leve, diferente da forma que fazia a 9 anos atrás. Não vai existir uma frequência certa, sempre que terminar algo ele será postado aqui.

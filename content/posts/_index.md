@@ -1,5 +1,5 @@
 ---
 title: "Post"
-header: "Latest Posts" # Optional
+header: "Últimos Posts" # Optional
 ---
-See What I’ve Written Lately
+Veja o que escrevi ultimamente
